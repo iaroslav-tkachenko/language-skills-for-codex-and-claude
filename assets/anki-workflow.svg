@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="190" viewBox="0 0 1080 190" role="img" aria-labelledby="title desc">
+  <title id="title">Inspect, decide, review</title>
+  <desc id="desc">Three connected stages for using an Anki skill with a human decision before a change.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f7f3ea"/><stop offset="1" stop-color="#edf4f0"/></linearGradient></defs>
+  <rect width="1080" height="190" rx="20" fill="url(#paper)"/>
+  <path d="M315 95h48m336 0h48" stroke="#678b86" stroke-width="3" stroke-linecap="round"/>
+  <path d="m355 88 10 7-10 7m384-14 10 7-10 7" fill="none" stroke="#678b86" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <rect x="28" y="29" width="286" height="132" rx="16" fill="#fffdf8" stroke="#d7dfd9"/>
+    <circle cx="65" cy="65" r="20" fill="#eacb8b"/><text x="59" y="71" font-size="18" font-weight="700" fill="#203438">1</text>
+    <text x="96" y="72" font-size="23" font-weight="700" fill="#203438">Inspect</text><text x="51" y="116" font-size="16" fill="#526362">See the cards and patterns</text>
+    <rect x="365" y="29" width="334" height="132" rx="16" fill="#fffdf8" stroke="#d7dfd9"/>
+    <circle cx="402" cy="65" r="20" fill="#a9d5c5"/><text x="396" y="71" font-size="18" font-weight="700" fill="#203438">2</text>
+    <text x="433" y="72" font-size="23" font-weight="700" fill="#203438">Decide</text><text x="388" y="116" font-size="16" fill="#526362">Choose the learning action</text>
+    <rect x="750" y="29" width="302" height="132" rx="16" fill="#fffdf8" stroke="#d7dfd9"/>
+    <circle cx="787" cy="65" r="20" fill="#86b9ce"/><text x="781" y="71" font-size="18" font-weight="700" fill="#203438">3</text>
+    <text x="818" y="72" font-size="23" font-weight="700" fill="#203438">Review</text><text x="773" y="116" font-size="16" fill="#526362">Approve the exact change</text>
+  </g>
+</svg>
+
