@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="assets/language-learning-map.svg" alt="A visual map from language learning questions to thoughtful agent actions: observe, decide, improve" width="100%">
+<br><sub>Cover illustration. From observing a learning problem to choosing and reviewing the next action. Original artwork for this catalog.</sub>
 
 # Language Learning Agent Skills
 
