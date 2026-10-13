@@ -4,7 +4,7 @@
 
 # Language Learning Agent Skills
 
-**A curated field guide to using AI agents for more intentional language study.**
+**A curated field guide to using Codex, Claude, and other AI agents for more intentional language study.**
 
 Collected by [Iaroslav Tkachenko](https://github.com/iaroslav-tkachenko) · Original skills and carefully credited discoveries
 
