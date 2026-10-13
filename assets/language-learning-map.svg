@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Language Learning Agent Skills</title>
+  <desc id="desc">A dark editorial banner with a connected pathway from observe to decide to improve.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d2c"/><stop offset="1" stop-color="#182b35"/></linearGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#eacb8b"/><stop offset=".55" stop-color="#a9d5c5"/><stop offset="1" stop-color="#86b9ce"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#799496" opacity=".28"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#dots)"/>
+  <path d="M70 269 C300 190 370 309 555 216 S864 147 1130 205" fill="none" stroke="#28434a" stroke-width="30" stroke-linecap="round" opacity=".55"/>
+  <path d="M70 269 C300 190 370 309 555 216 S864 147 1130 205" fill="none" stroke="url(#arc)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="144" cy="245" r="10" fill="#eacb8b"/><circle cx="555" cy="216" r="10" fill="#a9d5c5"/><circle cx="1013" cy="172" r="10" fill="#86b9ce"/>
+  <text x="70" y="75" fill="#eacb8b" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">A CURATED FIELD GUIDE</text>
+  <text x="70" y="142" fill="#f4f0e8" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700">Language Learning</text>
+  <text x="70" y="194" fill="#f4f0e8" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700">Agent Skills</text>
+  <text x="70" y="331" fill="#d6dbd1" font-family="Arial,Helvetica,sans-serif" font-size="15">OBSERVE</text>
+  <text x="522" y="331" fill="#d6dbd1" font-family="Arial,Helvetica,sans-serif" font-size="15">DECIDE</text>
+  <text x="987" y="331" fill="#d6dbd1" font-family="Arial,Helvetica,sans-serif" font-size="15">IMPROVE</text>
+  <text x="945" y="63" fill="#d6dbd1" font-family="Arial,Helvetica,sans-serif" font-size="14">Curated by Iaroslav Tkachenko</text>
+</svg>
+
